@@ -1,0 +1,75 @@
+<footer class="footer">
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-md-4">
+          <a href="https://github.com/your-github-profile" target="_blank">
+            <i class="fab fa-github fa-2x"></i>
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a href="https://twitter.com/your-twitter-profile" target="_blank">
+            <i class="fab fa-twitter fa-2x"></i>
+          </a>
+        </div>
+        <div class="col-md-4">
+          <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+            <i class="fab fa-linkedin-in fa-2x"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Work Experience and Education Sections -->
+  <div class="container">
+    <div class="row">
+      <!-- Work Experience Section -->
+      <div class="col-md-6 work-experience">
+        <h2>Work Experience</h2>
+        <!-- ... (same as before) ... -->
+      </div>
+      <!-- Education Section -->
+      <div class="col-md-6 education">
+        <h2>Education</h2>
+        <!-- ... (same as before) ... -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Skills and Recent Work Sections -->
+  <div class="container">
+    <div class="row">
+      <!-- Skills Section -->
+      <div class="col-md-6 skills">
+        <h2>Skills</h2>
+        <!-- ... (same as before) ... -->
+      </div>
+      <!-- Recent Work Section -->
+      <div class="col-md-6 recent-work">
+        <h2>Recent Work</h2>
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <div class="instagram-box" style="background-image: url('path_to_instagram_logo_1.jpg');"></div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <div class="instagram-box" style="background-image: url('path_to_instagram_logo_2.jpg');"></div>
+          </div>
+          <div class="col-md-6">
+            <div class="instagram-box" style="background-image: url('path_to_instagram_logo_3.jpg');"></div>
+          </div>
+          <div class="col-md-6">
+            <div class="instagram-box" style="background-image: url('path_to_instagram_logo_4.jpg');"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
+
+In this updated code, I added a footer section with links to your GitHub, Twitter, and LinkedIn profiles. The footer contains three columns (col-md-4), each representing one social media link. The links are represented by font-awesome icons (fab class) for GitHub, Twitter, and LinkedIn.
+
+Replace 'https://github.com/your-github-profile', 'https://twitter.com/your-twitter-profile', and 'https://www.linkedin.com/in/your-linkedin-profile' with your actual profile links.
+
+Now the footer section will appear at the bottom of the page with your social media links. The page width will remain limited to 100vw (viewport width).

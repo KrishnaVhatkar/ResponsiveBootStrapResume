@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading img{
+    height: 200px;
+}
+.container,.row{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+.footer {
+    background-color: #f8f9fa;
+    padding: 0px 0;
+    margin: 0px 0px;
+  }
+  .skill-item {
+    margin-bottom: 15px;
+  }
+  .skill-item .progress {
+    margin-bottom: 5px;
+  }
+  .instagram-box{
+    height: 100px;
+    width: 100px;
+   overflow: hidden;
+    border: 1px solid black;
+
+  }
+
+
+  .main-ft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main-ft a {
+    margin: 0 10px;
+    
+  }
+  .work-experience{
+    padding-left: 60px;
+  }
+  .education{
+    padding-left: 60px;
+  }
+  .recent-work{
+    padding-left: 60px;
+  }
